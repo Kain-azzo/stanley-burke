@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stanley-burke
+- 👋 Hi, I’m Stanley Burke
 - 👀 I’m interested in Cyber Security and Data Science
 - 🌱 I’m currently learning Python and SQL
 
